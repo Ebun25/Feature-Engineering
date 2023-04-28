@@ -1,0 +1,2 @@
+# Feature-Engineering
+ Three engineering features was done using the Ames,Iowa housing dataset.The goal is to create three new features without using logarithmic transformations and analyze their impact on the response variables, Sale_Price and log_Sale_Price.A correlation matrix or heatmap was developed to show the linear relationships between the three new features and the response variables.The purpose of this is to explore how engineering new features can improve the accuracy of predicting house prices.
